@@ -1,0 +1,11 @@
+file,n,edges,directed,scc_count,avg_scc_size,condensed_n,condensed_edges,is_condensation_dag,topo_time_ms,scc_time_ms,dags_short_ms,dags_long_ms,dfs_visits,edge_checks,stack_pops,queue_pushes,edge_relaxations,successful_relaxations
+data_large_1.json,30,34,true,30,1.00,30,34,true,0.158,0.418,1.345,1.393,30,34,30,0,0,0
+data_large_2.json,25,79,true,3,8.33,3,2,true,0.021,0.097,0.018,0.013,25,79,25,0,0,0
+data_large_3.json,40,46,true,14,2.86,14,10,true,0.024,0.092,0.027,0.020,40,46,40,0,0,0
+data_medium_1.json,15,14,true,15,1.00,15,14,true,0.159,0.078,0.037,0.034,15,14,15,0,0,0
+data_medium_2.json,12,36,true,1,12.00,1,0,true,0.014,0.050,0.011,0.009,12,36,12,0,0,0
+data_medium_3.json,12,14,true,6,2.00,6,5,true,0.014,0.119,0.016,0.013,12,14,12,0,0,0
+data_small_1.json,6,6,true,6,1.00,6,6,true,0.018,0.035,0.016,0.014,6,6,6,0,0,0
+data_small_2.json,6,6,true,4,1.50,4,3,true,0.015,0.031,0.012,0.009,6,6,6,0,0,0
+data_small_3.json,8,8,true,5,1.60,5,3,true,0.014,0.027,0.012,0.010,8,8,8,0,0,0
+tasks.json,8,7,true,6,1.33,6,4,true,0.019,0.030,0.014,0.012,8,7,8,0,0,0
